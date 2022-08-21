@@ -10,6 +10,6 @@ resource "aws_instance" "swetha-server1" {
   instance_type = "t2.micro"
 
   tags = {
-  Name = "HelloAws"
+  Name = "HelloAws 1st instance"
  }
 }
