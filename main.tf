@@ -1,8 +1,8 @@
 # Configure the AWS Provider
 provider "aws" {
   region = "us-east-2"
-  access_key = "AKIAXQTJWJESGMSLCNOF"
-  secret_key = "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"
+  access_key = "aaaaaaaaaaa"
+  secret_key = "bbbbbbbbbbbbbbbbbbb"
 }
 
 #resource "aws_instance" "swetha-server1" {
